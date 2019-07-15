@@ -1,0 +1,4 @@
+class UnitedNationsNews::Articles
+
+    
+end

@@ -1,0 +1,4 @@
+class UnitedNationsNews::CLI
+
+
+end
