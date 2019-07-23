@@ -4,7 +4,7 @@ require 'pry'
 
 require_relative "./united_nations_news/version"
 require_relative "./united_nations_news/cli"
-require_relative "./united_nations_news/articles"
+require_relative "./united_nations_news/headlines"
 require_relative "./united_nations_news/scraper"
 
 module UnitedNationsNews
