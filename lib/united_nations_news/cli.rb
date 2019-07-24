@@ -2,8 +2,8 @@ class UnitedNationsNews::CLI
 
     def call
         # loading
-        # code to scrape headlines UnitedNationsNews::Scraper.scrape
-        get_headlines
+        UnitedNationsNews::Scraper.scrape
+        # get_headlines
         start    
     end
 
